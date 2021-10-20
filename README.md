@@ -21,3 +21,4 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![image](https://user-images.githubusercontent.com/69525844/138121451-c1e71d47-ce27-4c8e-ac21-e0f7274253a8.png)
