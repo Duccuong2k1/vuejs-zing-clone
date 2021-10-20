@@ -1,0 +1,94 @@
+{
+    "listSongs": [{
+            "img": "https://images.unsplash.com/photo-1580087256394-dc596e1c8f4f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+            "name": "my name is cuong",
+            "author": "duc cuong",
+            "time": "8:10",
+            "path": "../src/assets/musics/HoYeuAiMatRoi.mp3",
+            "id": "0"
+        },
+        {
+            "img": "https://i.ytimg.com/vi/xypzmu5mMPY/maxresdefault.jpg",
+            "name": "Muon roi ma sao con",
+            "author": "son tung mtp",
+            "time": "2:10",
+            "path": "../src/assets/musics/VachNgocNga.mp3",
+            "id": "1"
+        },
+        {
+            "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Son_Tung_M-TP_1_%282017%29.png",
+            "name": "khong phai dang vua dau",
+            "author": "son tung",
+            "time": "4:44",
+            "path": "../src/assets/musics/PhanDuyen.mp3",
+            "id": "2"
+        },
+        {
+            "img": "https://i.ytimg.com/vi/1L4uZqFs1ts/maxresdefault.jpg",
+            "name": "khong phai dang vua dau",
+            "author": "son tung",
+            "time": "4:56",
+            "path": "../src/assets/musics/NgauHung.mp3",
+            "id": "3"
+        },
+        {
+            "img": "https://i.ytimg.com/vi/AKF3gaHWXUQ/maxresdefault.jpg",
+            "name": "ho ngoc ha",
+            "author": "nhac kpop",
+            "time": "1:32",
+            "path": "../src/assets/musics/MuonCungAnh.mp3",
+            "id": "4"
+        },
+        {
+            "img": "https://image2.tin247.com/pictures/2020/08/21/hcw1597986256.jpg",
+            "name": "ho ngoc ha",
+            "author": "nhac kpop",
+            "time": "2:00",
+            "path": "../src/assets/musics/Mili.mp3",
+            "id": "5"
+        },
+        {
+            "img": "https://afamilycdn.com/2020/2/18/landscape-avatar-copy-9-15819948605471484551997.png",
+            "name": "ho ngoc ha",
+            "author": "nhac kpop",
+            "time": "5:33",
+            "path": "../src/assets/musics/HoYeuAiMatRoi.mp3",
+            "id": "6"
+        },
+        {
+            "img": "https://image2.tin247.com/pictures/2020/08/21/hcw1597986256.jpg",
+            "name": "hien ho",
+            "author": "nhac kpop",
+            "time": "4:43",
+            "path": "../src/assets/musics/GheDep.mp3",
+            "id": "7"
+        },
+        {
+            "img": "https://vnn-imgs-f.vgcloud.vn/2019/09/20/09/hien-ho-buc-xuc-khi-lien-tiep-bi-don-yeu-duong-2.jpg",
+            "name": "hien ho",
+            "author": "nhac kpop",
+            "time": "2:23",
+            "path": "../src/assets/musics/CoDocVuongDai.mp3",
+            "id": "8"
+        }
+    ],
+    "users": [{
+            "id": "01",
+            "name": "admin",
+            "password": "admin123",
+            "gender": true
+        },
+        {
+            "id": "02",
+            "name": "duc cuong",
+            "password": "Duccuong123",
+            "gender": true
+        },
+        {
+            "id": "03",
+            "name": "Hoang nam",
+            "password": "HoangNam123",
+            "gender": true
+        }
+    ]
+}
